@@ -12,7 +12,7 @@
  github，gitee
 ## 06框架
  1 前端 bootstrap，vue
- 2 后端 Spring
+ 2 后端 Spring,SSM,SpringMVC
 ## 07项目
    1 基础项目
    2 专项项目
