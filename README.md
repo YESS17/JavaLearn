@@ -9,6 +9,7 @@
 ##  04版本控制
  git
 ## 05工具
+  idea
  github，gitee，Tomcat
 ## 06框架
  1 前端 bootstrap，vue
