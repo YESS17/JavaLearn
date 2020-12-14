@@ -9,8 +9,8 @@
 ##  04版本控制
  git
 ## 05工具
-  idea
- github，gitee，Tomcat
+  idea，Junit
+ ，github，gitee，Tomcat
 ## 06框架
  1 前端 bootstrap，vue
  2 后端 Spring,SSM,SpringMVC，
