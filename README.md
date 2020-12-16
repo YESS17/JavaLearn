@@ -15,8 +15,6 @@
  1 前端 bootstrap，vue
  2 后端 Spring,SSM,SpringMVC，
 ## 07项目
-   1 基础项目
-   2 专项项目
-   3 旅游网
-   
-
+  
+    旅游网
+  
