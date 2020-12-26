@@ -16,5 +16,6 @@ JDBC
  1 前端 bootstrap，vue
  2 后端 Spring,SSM,SpringMVC，
 ## 07项目
+ 学生信息管理系统
  旅游网
   
