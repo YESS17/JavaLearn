@@ -10,7 +10,7 @@ JDBC
 ##  04版本控制
  git
 ## 05工具
-  idea，Junit
+  idea，Junit,VMMare
  ，github，gitee，Tomcat
 ## 06框架
  1 前端 bootstrap，vue
