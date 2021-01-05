@@ -2,7 +2,7 @@
 
 
 ##  01Basic
-对象，类
+对象，类，方法
 ##  02JavaWeb
 ### Junit测试-黑盒
 JDBC
