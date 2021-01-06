@@ -2,7 +2,7 @@
 
 
 ##  01Basic
-对象，类，方法
+对象，类，方法，数据类型
 ##  02JavaWeb
 ### Junit测试-黑盒
 JDBC
@@ -18,6 +18,9 @@ JDBC
  2 后端 Spring,SSM,SpringMVC，SpringCloud
  3 MyBatis
 ## 07项目
+1.基础
  学生信息管理系统
+ 宿舍管理系统
+ 2.javaweb
  旅游网
   
