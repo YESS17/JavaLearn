@@ -15,7 +15,7 @@ JDBC,Druid
  ，github，gitee，Tomcat
 ## 06框架
  1 前端 bootstrap，vue
- 2 后端 Spring,SSM,SpringMVC，SpringCloud
+ 2 后端 Spring,SSM,SpringMVC，SpingBoot,SpringCloud
  3 MyBatis
 ## 07项目
 1.基础
