@@ -14,7 +14,7 @@ JDBC,Druid
   idea，Junit,VMMare
  ，github，gitee，Tomcat
 ## 06框架
- 1 前端 bootstrap，vue，layui，Jquery
+ 1 前端 BBootstrap，vue，layui，Jquery
 
  2 后端 Spring,SSM,SpringMVC，SpingBoot,SpringCloud
  3 MyBatis
